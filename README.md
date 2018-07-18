@@ -1,3 +1,8 @@
+---
+
+NOTE: WebComponents POC
+---
+
 # ElementsDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -30,3 +35,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Reference
 
 - https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b
+- https://medium.com/codingthesmartway-com-blog/angular-elements-a-practical-introduction-to-web-components-with-angular-6-52c0b3076c2c
+- https://github.com/webcomponents/webcomponentsjs
+- https://www.jqwidgets.com/angular/
